@@ -12,7 +12,7 @@ N reines.
 format.pl
 ---------
 
-Script permettant de modeliser de de facon graphique la solution rendu par le
+Script permettant de modeliser de facon graphique la solution rendu par le
 solveur minitsat.
 
 > prend en parametre le fichier solution ainsi que la taille
