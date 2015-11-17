@@ -20,8 +20,8 @@ solveur minitsat.
 Exemple pour 8 reines
 ---------------------
 
-login@: ./Nqueens 8                     (generation du fichier 8queens.cnf)
-login@: ./minisat 8queens.cnf 8Sol.txt  (generation du fichier 8Sol.txt)
+login@: ./Nqueens 8                     (generation du fichier 8queens.cnf)     
+login@: ./minisat 8queens.cnf 8Sol.txt  (generation du fichier 8Sol.txt)     
 login@: ./format.pl 8Sol.txt 8
 
 ## Licence
