@@ -6,7 +6,7 @@
 int main(int argc, char **argv)
 {
 	if (argc != 2) {
-		printf("USAGE: ./%s <Grid Size>\n",argv[0]);
+		printf("USAGE: %s <Grid Size>\n",argv[0]);
 		return 1;
 	}
 
